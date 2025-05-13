@@ -1,0 +1,7 @@
+
+streamlit
+easyocr
+pillow
+pandas
+xlsxwriter
+numpy
